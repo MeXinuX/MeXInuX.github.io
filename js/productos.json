@@ -1,0 +1,182 @@
+[
+    {
+        "id": "cpu-01",
+        "titulo": "INTEL CORE I5 14600K",
+        "imagen": "img/CPU/01.jpg",
+        "categoria": {
+            "nombre": "Cpu",
+            "id": "cpu"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "cpu-02",
+        "titulo": "INTEL CORE I9 14900K",
+        "imagen": "img/CPU/02.jpg",
+        "categoria": {
+            "nombre": "Cpu",
+            "id": "cpu"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "cpu-03",
+        "titulo": "AMD RYZEN 5 7600X",
+        "imagen": "img/CPU/03.jpg",
+        "categoria": {
+            "nombre": "Cpu",
+            "id": "cpu"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "cpu-04",
+        "titulo": "AMD RYZEN 9 7900X",
+        "imagen": "img/CPU/04.jpg",
+        "categoria": {
+            "nombre": "Cpu",
+            "id": "cpu"
+        },
+        "precio": 9800
+    },
+    {
+        "id": "cpu-05",
+        "titulo": "AMD THREADRIPPER PRO 7995WX",
+        "imagen": "img/CPU/05.jpg",
+        "categoria": {
+            "nombre": "Cpu",
+            "id": "cpu"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "almacenamiento-01",
+        "titulo": "XPG SSD NVME RGB 512GB",
+        "imagen": "img/ALMACENAMIENTO/01.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 1258
+    },
+    {
+        "id": "almacenamiento-02",
+        "titulo": "SAMSUNG SSD NVME 1TB",
+        "imagen": "img/ALMACENAMIENTO/02.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "almacenamiento-03",
+        "titulo": "HYPERX SSD RGB 1TB",
+        "imagen": "img/ALMACENAMIENTO/03.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "almacenamiento-04",
+        "titulo": "T FORCE SSD RGB 512GB",
+        "imagen": "img/ALMACENAMIENTO/04.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 1589
+    },
+    {
+        "id": "almacenamiento-05",
+        "titulo": "ADATA SSD 512GB",
+        "imagen": "img/ALMACENAMIENTO/05.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "almacenamiento-06",
+        "titulo": "TRANDSCEND SSD NVME SATA 512GB",
+        "imagen": "img/ALMACENAMIENTO/06.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 1900
+    },
+    {
+        "id": "almacenamiento-07",
+        "titulo": "SEAGATE HDD 3.5 3TB",
+        "imagen": "img/ALMACENAMIENTO/07.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 2120
+    },
+    {
+        "id": "almacenamiento-08",
+        "titulo": "WD HDD 2.5 1TB",
+        "imagen": "img/ALMACENAMIENTO/08.jpg",
+        "categoria": {
+            "nombre": "Almacenamiento",
+            "id": "almacenamiento"
+        },
+        "precio": 980
+    },
+    {
+        "id": "memoria ram",
+        "titulo": "KINGSTON DDR5 RGB 6000MHZ",
+        "imagen": "img/MEMORIA RAM/01.jpg",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "memoria ram"
+        },
+        "precio": 4600
+    },
+    {
+        "id": "memoria ram-02",
+        "titulo": "TFORCE DDR5 RGB 5800MHZ",
+        "imagen": "img/MEMORIA RAM/02.jpg",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "memoria ram"
+        },
+        "precio": 4319
+    },
+    {
+        "id": "memoria ram-03",
+        "titulo": "KINGSTON DDR4 3200MHZ",
+        "imagen": "img/MEMORIA RAM/03.jpg",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "memoria ram"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "memoria ram-04",
+        "titulo": "CORSAIR DDR4 3600MHZ",
+        "imagen": "img/MEMORIA RAM/04.jpg",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "memoria ram"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "memoria ram-05",
+        "titulo": "KINGSTON DDR4 SODIMM 3000MHZ",
+        "imagen": "img/MEMORIA RAM/05.jpg",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "memoria ram"
+        },
+        "precio": 1200
+    }
+]
